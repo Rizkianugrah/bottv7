@@ -5,7 +5,7 @@ let handler =  m => m.reply(`
 ╰────
 
 ╭─「 Donasi • Non Pulsa 」
-│ • Ovo [081227144597]
+│ • Ovo [083199789390]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
